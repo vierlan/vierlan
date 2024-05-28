@@ -13,6 +13,15 @@ Here are some ideas to get you started: -->
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+
+
 <br />
 
 #
