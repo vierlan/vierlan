@@ -23,8 +23,9 @@ Here are some ideas to get you started: -->
 
 #
 
-- 🔭 I’m currently working on my next Ruby on Rails project.  Finishing Meetspace has given me the inspiration to keep building!
-- 🌱 I’m currently learning Ruby on Rails and Javascript.  After that C# would be a 
+- 🔭 I’m currently learning Rails 8 and the world of new features there. Finishing Caretilt has given me the inspiration to keep building!
+- ✨ My Caretilt Project was the most exciting and challanging to date.  Connecting to Stripe, Google places and Twilio was a great experience. 
+- 🌱 I’m currently learning Ruby on Rails and Javascript.  After that Scala and Python would be very interesting. 
 - 👯 I’m looking to collaborate on full stack projects
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about coffee....
